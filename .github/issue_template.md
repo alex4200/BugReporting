@@ -4,4 +4,4 @@
 
 ### Steps to reproduce the problem
 
-Please fill the above sections with sufficient details so the issue can be dealt with promptly. Optionally, you can use [Markdown](https://guides.github.com/features/mastering-markdown/) to format your input.
+Please fill the above sections with sufficient details so the issue can be dealt with promptly. Optionally, you can use Markdown (see link below) to format your input.
